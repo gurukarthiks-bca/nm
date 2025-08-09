@@ -1,14 +1,14 @@
 /* Global Styles */
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #4b4b8b;
+  background-color: #bcbcd3;
   margin: 0;
   padding: 0;
 }
 
 .resume-container {
   max-width: 900px;
-  background: rgb(114, 49, 49);
+  background: rgb(227, 227, 242);
   margin: 30px auto;
   padding: 30px;
   box-shadow: 0 0 25px rgba(0,0,0,0.1);
@@ -30,7 +30,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 15px;
-  border: 4px solid #426e86;
+  border: 4px solid #001018;
   transition: transform 0.3s;
 }
 
@@ -40,18 +40,18 @@ body {
 
 .profile h1 {
   margin: 10px 0;
-  color: #00b689;
+  color: #277360;
 }
 
 .tagline {
   font-size: 1.1em;
-  color: #333;
+  color: #855353;
 }
 
 .profile button {
   margin-top: 15px;
   background: #0077b6;
-  color: white;
+  color: rgb(238, 190, 190);
   border: none;
   padding: 10px 25px;
   font-size: 1em;
@@ -61,7 +61,7 @@ body {
 }
 
 .profile button:hover {
-  background: #4f6c92;
+  background: #12a532;
 }
 
 /* Resume Content */
@@ -74,8 +74,8 @@ section {
 }
 
 h2 {
-  color: #0077b6;
-  border-bottom: 3px solid #0077b6;
+  color: #495d68;
+  border-bottom: 3px solid #5b8eaa;
   padding-bottom: 5px;
   margin-bottom: 20px;
 }
@@ -88,7 +88,7 @@ ul {
 ul li {
   padding: 8px 0;
   font-size: 1.05em;
-  color: #333;
+  color: #8f1111;
   position: relative;
 }
 
